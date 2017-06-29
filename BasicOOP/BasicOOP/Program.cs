@@ -14,10 +14,15 @@ namespace BasicOOP
 			Point p2 = new Point(2, 6, '#');
 			p2.Draw();
 
-			HorizontalLine hLine = new HorizontalLine(5, 20, 8, '*');
-			HorizontalLine hLineDown = new HorizontalLine(5, 20, 16, '*');
-			hLine.Draw();
-			hLineDown.Draw();
+			HorizontalLine upLine = new HorizontalLine(0, 20, 0, '*');
+			upLine.Drow();
+			HorizontalLine downLine = new HorizontalLine(0, 20, 20, '*');
+			downLine.Drow();
+
+			VerticalLine leftLine = new VerticalLine(0, 20, 0, '*');
+			leftLine.Drow();
+			VerticalLine rightLine = new VerticalLine(0, 20, 20, '*');
+			rightLine.Drow();
 		}
 	}
 }

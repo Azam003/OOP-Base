@@ -5,11 +5,13 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="BasicOOP\HorizontalLine.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicOOP\VerticalLine.cs">
     <Files>
-      <File FileName="BasicOOP\Program.cs" Line="20" Column="21" />
+      <File FileName="BasicOOP\Program.cs" Line="20" Column="17" />
       <File FileName="BasicOOP\HorizontalLine.cs" Line="11" Column="4" />
       <File FileName="BasicOOP\Point.cs" Line="23" Column="4" />
+      <File FileName="BasicOOP\Figure.cs" Line="8" Column="12" />
+      <File FileName="BasicOOP\VerticalLine.cs" Line="8" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
